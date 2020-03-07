@@ -340,6 +340,13 @@ img {
   opacity: 0.7;
   margin: 0;
 }
+.item-text-icon {
+  font-size: 3rem;
+  margin: 0 1rem;
+}
+.item-text-icon:hover {
+  color: #bbb;
+}
 
 /* CONTACT */
 #contact-a .text-fields {
@@ -425,6 +432,10 @@ img {
     font-size: 0.8rem;
     opacity: 0.7;
     margin: 0;
+  }
+  .item-text-icon {
+    font-size: 1.8rem;
+    margin: 0 1rem;
   }
 }
 @media (max-width: 800px) {
