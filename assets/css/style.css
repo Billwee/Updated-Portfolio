@@ -329,6 +329,9 @@ img {
   top: 50%;
   transform: translateY(-50%);
 }
+.item-text-wrap a {
+  color: #fff;
+}
 .item-text-title {
   font-size: 2rem;
   padding: 0 1rem;
