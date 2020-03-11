@@ -416,7 +416,8 @@ img {
   height: 5rem;
   align-items: center;
 }
-#main-footer .footer-content .social .fab {
+#main-footer .footer-content .social .fab,
+#main-footer .footer-content .social .far {
   color: #f4f4f4;
   margin-right: 1rem;
   border: 2px #fff solid;
@@ -427,7 +428,8 @@ img {
   text-align: center;
   padding: 0.5rem;
 }
-#main-footer .footer-content .social .fab:hover {
+#main-footer .footer-content .social .fab:hover,
+#main-footer .footer-content .social .far:hover {
   background-color: #ffbc00;
 }
 
