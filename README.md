@@ -1,10 +1,10 @@
-# Updated-Portfolio
+# My Portfolio
 
-This is my updated portfolio. I've completely changed the design into a single page layout.
+This is my updated portfolio. I've completely changed the design into a single page layout and added a better visual concept and a little personalization.
 
-## Live Website
+## Deployed Website
 
-You can access the portfolio by clicking this link - [https://billwee.github.io/Updated-Portfolio/](https://billwee.github.io/Updated-Portfolio/)
+You can access the portfolio by clicking [this link](https://billwee.github.io/Updated-Portfolio/)
 
 ## New Additions
 
@@ -18,4 +18,4 @@ You can access the portfolio by clicking this link - [https://billwee.github.io/
 
 - I've linked to my Facebook, LinkedIn, GitHub, and Twitter accounts.
 
-* Lastly, I've added a link to access my resume
+* Lastly, I've added a link to access my resume hosted on Dropbox.
